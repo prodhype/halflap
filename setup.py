@@ -1,17 +1,17 @@
 from distutils.core import setup
 
 setup(
-    name="basic-rpc",
-    packages=["basic-rpc"],
+    name="halflap",
+    packages=["Halflap"],
     version="0.1",
     license="MIT",
-    description="Basic RPC is a simple, easy-to-use, easy-to-enhance RPC library that uses RabbitMQ and JSON-serializable payloads.",
+    description="Halflap is a simple, easy-to-use, easy-to-enhance RPC library that uses RabbitMQ and JSON-serializable payloads.",
     author="John Perkins",
-    author_email="johndperkins+brpc@gmail.com",
-    url="https://github.com/prodhype/basic-rpc",
-    download_url="https://github.com/prodhype/basic-rpc/archive/refs/tags/v_01.tar.gz",
+    author_email="johndperkins+halflap@gmail.com",
+    url="https://github.com/prodhype/halflap",
+    download_url="https://github.com/prodhype/halflap/archive/refs/tags/v_01.tar.gz",
     keywords=[
-        "basic-rpc",
+        "halflap",
         "rpc",
         "rabbitmq",
         "distributed",
