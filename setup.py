@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name="halflap",
-    packages=["Halflap"],
+    packages=["halflap"],
     version="0.1",
     license="MIT",
     description="Halflap is a simple, easy-to-use, easy-to-enhance RPC library that uses RabbitMQ and JSON-serializable payloads.",
